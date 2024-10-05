@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://mail.baskent.edu.tr/~buje/cache/jangkar89/
+sitemap.php
